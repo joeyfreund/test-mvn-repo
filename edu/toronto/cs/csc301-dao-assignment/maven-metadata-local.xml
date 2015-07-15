@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.toronto.cs</groupId>
+  <artifactId>csc301-dao-assignment</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150715134726</lastUpdated>
+  </versioning>
+</metadata>
